@@ -1,10 +1,8 @@
 ## :red_circle::black_circle::white_circle: Eae pessoal, tudo bem ? Sou o Vinicius Vasconcelos 👋
 
-Nascido em **01/1996** em São Paulo :brazil:. Sou grande entusiasta por obter novos conhecimentos e os compartilhar,  foi assim que iniciei minha caminhada na área da tecnologia e desenvolvimento :computer:.
+Nascido em **01/1996**, São Paulo :brazil:. Sou grande entusiasta por obter novos conhecimentos e os compartilhar,  foi assim que iniciei minha caminhada na área da tecnologia e desenvolvimento :computer:.
 
 Sou graduado :man_student::man_technologist: em [Ciência da Computação](https://www.unoeste.br/graduacao/ciencia-computacao), [técnico em Informática](https://www.sp.senac.br/senac-presidente-prudente/cursos-tecnicos/curso-tecnico-em-informatica) e [técnico em Informática para Internet](https://www.sp.senac.br/senac-presidente-prudente/cursos-tecnicos/curso-tecnico-em-informatica-para-internet), **acredito fortemente que os requisitos mínimos para qualquer coisa é ter força de vontade ! :book: :muscle:**
-
-Atualmente trabalho com **tecnologia** e **educação** duas coisas que eu amo :heartbeat: !!! Durante minha graduação já ministrava mini-cursos na semana de informática na instituição onde me formei. Logo após formado, continuei compartilhando meu conhecimento assim me tornando [instrutor na Udemy](https://www.udemy.com/user/vinicius-souza-vasconcelos-dos-santos/) :book: :computer: e atualmente sou instrutor de **Back-end** e **Computer Science** na [Trybe](https://www.betrybe.com/) :man_teacher: :green_heart: :rocket:.
 
 ![gif inicial](./images/init.gif)
  
